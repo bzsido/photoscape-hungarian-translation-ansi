@@ -1,0 +1,1 @@
+# photoscape-hungarian-translation-ansi
