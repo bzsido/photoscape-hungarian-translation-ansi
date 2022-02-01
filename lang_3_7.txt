@@ -1,0 +1,1078 @@
+photoscape = PhotoScape
+yes = Igen
+no = Nem
+ok = OK
+cancel = Kilépés
+default = Alaphelyzet
+initialize = Alaphelyzet
+close = Bezár
+mydocuments = Dokumentumok
+desktop = Asztal
+refresh = Frissítés
+refreshcache = Cache frissítése
+refreshtooltip = Frissítés(F5)\nMappa- és fotóindexek frissítése
+save = Mentés
+saveas = Mentés másként...
+saveinfolder = Mentés a kijelölt mappába
+modify = Módosítás
+round = Lekerekítés
+background = Háttér
+bgcolor = Háttér színe
+name = Név
+filename = Fájlnév
+folder = Mappa
+preview = Elonézet
+copy = Másolás
+convert = Konvertálás
+second = mp
+width = Szélesség
+height = Magasság
+longaxis = Hosszabb oldal
+shortaxis = Rövidebb oldal
+longaxisinshort = Hosszú
+shortaxisinshort = Rövid
+pixel = Pixel
+resize = Méretezés
+ratio = Arány
+size = Méret
+cell = Cella
+row = Sor
+col = Oszlop
+column = Oszlop
+rows = Sorok
+columns = Oszlopok
+photo = Fotó
+image = Kép
+picture = Kép
+clipboard = Vágólap
+clipboardphoto = Vágólap fotó
+text = Szöveg
+balloon = Buborék
+apply = Bekapcsol
+queryapply = Elfogadod?
+landscapephoto = Fekvo nézet
+portraitphoto = Portré nézet
+prevphoto = Elozo fotó
+nextphoto = Következo fotó
+next = Következo
+up = Fel
+down = Le
+add = Hozzáadás
+delete = Törlés
+deleteall = Összes törlése
+deleteallphotos = Összes fotó törlése
+favorites = Kedvencek
+addtofavorites = Kedvencekhez ad
+copytoclipboard = Vágólapra másolás
+copyselectedtoclipboard = A kiválasztott fotó másolása a vágólapra
+bgpatterntooltip = Háttér séma\nHáttér megváltoztatása
+photoedit = Fotó szerk.
+home = Fooldal
+object = Objektum
+crop = Kép vágása
+region = Effektek
+tools = Eszközök
+drophere = Dobd ide a fotót
+opacity = Átlátsz.
+explorer = Böngészo
+shadow = Árnyék
+configload = Beállítás betöltése
+configsave = Beállítás mentése
+level = Mérték
+original = Eredeti
+radius = Érték
+amount = Arány
+range = Kiterjedés
+direction = Irány
+directiondiagonal = Átlós
+directionvertical = Függoleges
+directionhorizontal = Vízszintes
+regionradial = Kör
+regionhorizontal = Függo
+regionvertical = Vízsz.
+regionhorizontal2 = Függo.(2)
+regionvertical2 = Vízsz.(2)
+type = Típus
+interval = Intervallum
+number = Mennyiség
+length = Hosszúság
+thickness = Vastagság
+penthickness = Toll vastagság
+angle = Szög
+degrees = Fokok
+feather = Perem él
+processing = Feldolgozás
+menu = Menü
+explorertooltip = Windows Intézo\nFotók mappa megnyitása az Intézoben
+copytooltip = Másolás(Ctrl-C)\nFotó másolása a vágólapra
+completed = Kész
+failed = Hibás
+
+[update]
+title = Frissíés
+message = Új PhotoScape verzió elérheto. \nSzeretnéd letölteni a frissítést?\nTöltsd le innen http://photoscape.org/
+skip = Ne ellenorizze a Photoscape frissítéseket egy hétig.
+
+[intro]
+title = PhotoScape
+photorefresh = Véletlen fotó a flickr.com-ról
+photoswitch = Fotó ki/be kapcsolása
+
+[viewer]
+title = Képnézo
+tooltip = Képek nézegetése
+
+[editor]
+title = Szerkeszto
+tooltip = Képek szerkesztése, új képek létrehozása
+savetooltip = Mentés(Ctrl-S)
+roundtooltip = Kerekítsd le e fotó sarkait, adj hozzá peremet és szegélyt
+margintooltip = Adj különbözo méretu peremet a fotó köré
+framelinetooltip = Adj szegélyt a fotó köré
+mergeframetooltip = Egyesítsd a fotót a kerettel.\nA keret a fotó részévé válik. 
+croptooltip = Fotó körülvágása (Enter)
+cropsavetooltip = Körülvágott terület mentése.
+scrolltooltip = Képernyo görgeto mód\nKattints és mozgasd a fotót.\nMozgathatod a fotót a szóköz billentyu lenyomásával és húzással is.
+selecttooltip = Objektum választó mód(S)\nJelöld meg, mozgasd vagy méretezd át az objektumot (Fotó, Ikon, Buborék, Ábra).\nAz objektum beállításait -jobb klikkel- felugró menüben érheted el.\nEzt visszavonhatod a shift billentyu nyomvatartása közbeni bal klikkel.
+redeyetooltip = Piros szem eltünteto mód\nHúzz egy kis négyzetet a szem köré és tüntesd el a szem pirosságát.
+spottooltip = Szeplo eltünteto mód\nHúzz az egérrel egy kis négyzetet a szeplok köré és tüntesd el azt.
+mosaictooltip = Mozaik mód\nMozaik effekt hozzáadása az egérrel a kívánt területhez.
+clonestamptooltip = Klónozás
+paintbrushtooltip = Ecset mód
+effectbrushtooltip = Effect Brush Mode
+linetooltip = Vonal készítése\nKészíts vonalat.\nRajzolj vízszintes vagy függoleges egyenes vonalakat a shift billentyu nyomva tartása közben az egérmutatóval.\n
+straightlinetooltip = Egyenes vonal készítése\nKészíts egyenes vonalat\nVízszintes vagy függoleges egyenes vonal késíztése: a shift billentyut nyomvatartva,az egérmutatóval.
+boxtooltip = Négyszög készítése\nNégyzet készítése: a shift billentyut nyomvatartva, az egérmutatóval.
+roundboxtooltip = Lekerekített négyszög készítése \nLekerekített sarkú négyzet készítése: a shift billentyut nyomvatartva, az egérmutatóval.
+circletooltip = Kör készítése \nSzabályos kör készítése: a shift billentyut nyomvatartva, az egérmutatóval.
+polygontooltip = Sokszög készítése \nRajzolj sokszöget.
+startooltip = Csillag készítése\nRajzolj csillagot.
+round = Lekerekítés
+frameline = Szegély
+mergeframe = Fotó + Keret
+cropsave = Vágott terület mentése
+cropcircle = Köralakú vágás
+scroll = Képernyo görgetése
+redeyeremoval = Piros szem
+moleremoval = Szeplo
+clonestamp = Klónozás
+paintbrush = Ecset
+effectbrush = Effect Brush
+cropcomment = Válassz vágási méretet\nA képernyot görgetheted a szóköz billentyut nyomvatartva az egérmutatóval.
+redeyeremovalcomment = Húzz egy kis négyzetet az egérmutatóval a szemek köré, a szem pirosságának eltüntetéséhez.\n
+moleremovalcomment = Húzz egy kis négyzetet a szeplo köré és tüntesd el azt.\n
+mosaiccomment = Adj mozaik effektet az egérrel kiválasztott területhez.\n
+clonestampcomment = A kép egy részét átmásolhatod egy másik területre. \nKattints a másolandó területre majd oda, ahová azt másolni szeretnéd.\nHalványabb másolat készítéséhez tartsd nyomva a Shift billentyut.\nEsc, Alt-klikk: Kilépés és inicaializálás\nEgér görgo fel-le: Ecsetátméro beállítása
+paintbrushcomment = Festés ecsettel.\nHalványabb festéshez tartsd nyomva a Shift billentyut.\nEsc: Kilépés\nEgér görgo fel-le: Ecsetártméro beálítása\nCtrl-Klikk: Szín felvétele
+effectbrushcomment = Click to paint with effect brush.\nHold the shift key to paint dimly.\nEsc: Cancel\nMouse Wheel, Up, Down: Control the brush size\nCtrl-Click: Pick a color
+currentfolder = Jelenlegi mappa
+editfolder = Szerkesztett fotó mappa
+querysave = A szerkesztett fotó még nem lett mentve.\nSzeretnéd most menteni?
+failtoloadfile = A fájl nem létezik vagy nem olvasható
+failtoloadbitmap = A bitmap nem olvasható
+failtocreatenew = Az új kép készítése nem sikerült
+noballoon = Nem sikerült megtalálni az új Buborékot.
+newphoto = Új kép
+newphototoobig = A fotód túl nagy.\nSzeretnél új képet készíteni?
+loadclipboard = Kép beillesztése a vágólapról
+explorertexture = Intézo (Szövet mappa)
+cropfreely = Szabad kijelölés
+cropsetratio = Arány/Méret megadása
+croporiginalratio = Eredeti fotóarány
+
+[save]
+savecomment = Fotó mentése. Ha szükséges, az eredeti fotó visszaállítható az 'Originals' mappából.
+saveinfoldercomment = Fotó mentése a kijelölt mappába.
+saveascomment = Mentés új fájlnéven.
+selectsavefolder = Válaszd ki a célmappát
+queryextrename = Csak %s fájlkiterjesztést használhatsz. \nSzeretnéd az új fájlnévvel elmenteni?
+queryreadonly = A fáj attribútuma "írásvédett".\nSzeretnéd megváltoztatni?
+failtosavereadonly = A mentés nem sikerült\nHa a fájl attribútuma "írásvédett", nem lehet menteni
+
+[object]
+richedit = Kibovített szerkesztés
+symbol = Szimbólumok
+phototooltip = Fotó\nFotó, vágólap kép vagy ikon beillesztés
+balloontooltip = Buborék\nBuborék beillesztése
+texttooltip = Szöveg\nKörvonal és árnyékolt betuk beillesztése.
+richedittooltip = Kibovített szerkesztés\nKülönféle betuk és színek beillesztése
+symboltooltip = Szimbólumok\nVálassz egyet a telepített betuszimbólumok közül
+mergetooltip = Egyesítsd az objektumokat a fotóval\nHa kombinálod a fotót egy objektummal, az objektum a fotó részévé válik.
+propertytooltip = Tulajdonság módosítása(A)\nA kiválasztott objektum tulajdonságának módosítása.\nKattints duplán az objektumra tulajdonságok módosításához.
+backtooltip = Hátra\nTedd a kiválasztott objektumot a többi objektum mögé\nLehet, hogy a kiválasztott objektum blokkolva van egy nem kiválasztott objektum által.
+fronttooltip = Elore\nTedd a kiválasztott objektumot a többi objektum elé\nLehet, hogy a kiválasztott objektum blokkolva van egy nem kiválasztott objektum által.
+copytooltip = Másolás\nMásolás
+deletetooltip = Törlés(Del)\nA kiválasztott objektum törlése
+merge = Fotó + Objektum
+mergeinside = Kombináld a fotód objektumokkal
+mergeoutside = Az objektum mérete a fotó vagy keret mérettartományán kívül esik. 
+mergecolor = az átméretezett terület háttérszíne
+hide = Elrejt
+properties = Tulajdonságok
+anchor = Igazítás
+rotatedegree = Forgatás %s fokkal
+front = Elore
+back = Hátra
+thickness = Vastagság
+fill = Kitöltés
+outline = Körvonal
+
+[history]
+undoall = Mind visszavonása
+undo = Vissza
+redo = Elore
+undoalltooltip = Minden változtatás visszavonása(Ctrl-Alt-Z)\nVisszatérés az eredeti állapothoz.
+undotooltip = Visszavonás(Ctrl-Z)
+redotooltip = Elore(Ctrl-Y,Ctrl-Shift-Z)
+
+[cropdlg]
+sizesetting = Méret beállítások
+width = Szélesség
+height = Magasság
+maxvalue = Maximum %d pixel
+x = X
+y = Y
+ratiosetting = Arány beállítása
+ratio = Width : Magasság
+outofwidthrange = A szélességnek 1 és %d között kell lennie.
+outofheightrange = A magasságnak 1 és %d között kell lennie.
+invalidratio = A felbontás több legyen, mint 1
+
+[batch]
+title = Kötegelt Szerkeszto
+tooltip = Szerkessz több fotót egyszerre
+convertall = Az összes konvertálása
+convertcurrent = Az aktuális fotó konvertálása
+processing = Feldolgozás...
+savetitle = Mentés
+destination = Mentett fájlok helye
+destinationfirst = Kimeneti mappa létrehozása az elso módosított fotó saját mappájánán belül
+destinationeach = Kimenti mappa létrehozása az összes módosított kép saját mappáján belül
+destinationfolder = Fotó mentése a kijelölt mappába
+naming = Átnevezés
+namingoriginal = Mentés ugyanazon a néven
+namingnew = Mentés új néven
+format = Képformátum
+formatcomment = A PNG fájl minosége jobb mint a JPG fájlé, de a mérete nagyobb lesz. A BMP nem tömörített formátum ezért a fájl mérete nagyon nagy lesz.
+originalformat = Eredeti formátum
+etc = stb
+keepexif = Az Exif információk megtartása
+keepfmtime =  Ne változzon meg a módosítás idopontja
+picproptooltip = Tulajdonságok módosítása\nA fotó tulajdonságainak megváltoztatása
+txtproptooltip = Tulajdonságok módosítása\nA szöveg tulajdonságainak megváltoztatása
+currentfolder = Aktuális mappa
+savefolder = Mentési mappa 
+savefoldernotexist = Mentési mappa nincs létrehozva
+original = Eredeti
+converted = Konvertált
+marginround = Perem és lekerekítés
+margin = Perem: T %d, B %d, L %d, R %d
+round = Lekerekítés:
+photonotassigned = Nincs kijelölt fotó fájl
+failtoread = A fájl nem olvasható
+failtosave = A fájl nem mentheto
+failed = A fájl nem konvertálható
+completed = A konvertálás kész
+canceled = A konvertálás megszakítva
+noconfigfile = Nincs konfiguráció
+explorerconfigfolder = Beáll. mappa
+enterconfigname = Írd be a konfigurációs fájl nevét
+queryconfiginit = Szeretnéd törölni a konfigurációs beállításokat? 
+configread = Beáll. megnyitás
+configsave = Beáll. mentése
+configinit = Alaphelyzet
+
+[jpgquality]
+title = JPEG minoség
+quality = Minoség
+low = Gyenge minoség
+high = Magas minoség
+comment = Ajánlott a fotót nagyon jó minoségben menteni (több mint 95).\nHa gyenge minoségben mented a fotót a mérete ugyan kicsi lesz, de veszíteni is fog a felbontásából.
+
+[overwritedlg]
+title = Felülírás megerosítése
+comment = Ez a fájlnév már létezik.\n\nFelülírod a régebbi fájlt?
+applyall = Alkalmaz az összes fájlra 
+yes = Felülírás
+no = Ne írja felül
+stop = Megállít
+
+[margin]
+title = Perem
+outer = Külso perem
+inside = Belso perem
+color = Perem színe
+assignsame = Azonos peremméret
+
+[page]
+title = Montázs
+tooltip = Készíts montázst
+savetooltip = Oldal mentése.(Ctrl-S)
+edit = Szerkesztés
+edittooltip = Nyisd meg a munkaoldalt a fotószerkeszto fülön.
+sizetooltip = Méret kiválasztása
+pastephoto = Fotó beillesztése
+pasteclipboard = Fotó beillesztése a vágólapról
+deletephoto = Fotó törlése
+resetcoordinates = Koordináták visszaállítása
+assignsize = Oldalméret meghatározása
+originalsize = Eredeti oldalméret (Alaphelyzet)
+assignratio = Szélesség és magasság arány meghatározása
+originalratio = Eredeti arány
+openpspage = Oldalfájl megnyitása
+savepspage = Mentés oldalfájlként
+ratiovaluerestriction = Az arány értéke több legyen, mint 1
+
+[combine]
+title = Összekapcsolás
+tooltip = Készíts képet több fotó vízszintes vagy függoleges összekapcsolásával
+savetooltip = Egyesített fotók mentése.(Ctrl-S)
+edit = Szerkesztés
+edittooltip = Egyesített fotók szerkesztése a szerkesztés fülön.
+down = Alá
+side = Mellé
+tile = Csempe
+referencesize = Ajánlott
+canvassize = Vászon
+resizeratio = Arány beállítása
+interval = Fotó térköz
+column = Oszlopok
+refuserset = A kívánt méret beállítása
+reforiginal = Az eredeti méret megorzése
+reffirst = Az elso fotó mérete
+refbiggest = A legnagyobb fotó mérete
+refsmallest = A legkisebb fotó mérete
+openpscombine = Egyesített fájl megnyitása szerkesztésre
+savepscombine = Mentés egyesített fájlként
+
+[combinesizedlg]
+title = Állítsd be a fotó kívánt méretét
+width = Szélesség(Pixel)
+height = Magasság(Pixel)
+help = Only width needed for down-attach\nOnly height needed for side-attach\nBoth width and height needed for check-attach
+outofrange =  %d-tól %d-ig, állítsd be a méretet
+
+[anigif]
+title = Gif animáció
+tooltip = Készíts mozgóképet több fotó felhasználásával
+savetooltip = Animált GIF mentése(Ctrl-S)
+preview = Böngészo elonézet
+previewtooltip = Böngészo elonézet\nEllenorizheted hogyan néz ki az animációd.
+starttooltip = Animáció indítása
+stoptooltip = Animáció megállítása
+changetimeinshort = Ido beállítása
+changetime = Megjelenítési ido beállítása
+changeeffect = Átmenet beállítása
+changetimetooltip = Az itt kiválasztott megjelenítési ido az összes képkockára érvényes
+changeeffecttooltip = Az itt kiválasztott átmenet az összes képkockára érvényes
+setthecanvassize = Vászonméret beállítása
+canvassize = Vászon
+resizeratio = Arány beállítása
+reffirst = Az elso fotó mérete
+refbiggest = A legnagyobb fotó mérete
+refsmallest = A legkisebb fotó mérete
+refuserset = Vászon méret beállítása
+effectnone = Nincs átmenet.
+effectup = Felfelé mozgatja a kijelölt képkockát.
+effectdown = Lefelé mozgatja a kijelölt képkockát.
+effectleft = Balra mozgatja a kijelölt képkockát.
+effectright = Jobbra mozgatja a kijelölt képkockát.
+effectbgcolor = Háttérszín használata az átmenethez a kijelölt képkockánál.
+effectblack = Fekete átmenet használata a kijelölt képkockánál.
+effectwhite = Fehér átmenet használata a kijelölt képkockához.
+querylongtime = A nagy vászon miatt ez sok idot vehet igénybe. (%dx%d)\nHa csökkented a vászon méretét, kevesebb ideig tart.\nFolytatod?
+changingnow = Módosítás most
+changingprogress = Vászon mérete %dx%d, Összesen %d képkocka.
+savingnow = Mentés most.
+outofdisplaytimerange = A képkocka megjelenítési idonek %d és %d között kell lenni.
+savesuccess = Mentve\nfájl mérete: %s
+htmlcreationfail = Nem sikerült létrehozni a HTML elonézeti fájlt.
+gifcreationfail = Nem sikerült létrehozni a GIF elonézeti fájlt.
+displaytime = Megjelenítési ido
+displaytimecomment = Megjelenítési ido, '1', egyenlo 1/100 perccel.\n'100'= 1 perc.
+changetimeselected = Csak a kiválasztott képkockára érvényes
+changetimeall = Az összes képkockára érvényes
+
+[print]
+title = Nyomtatás
+tooltip = Fotók nyomtatása
+setup = Nyomtatóbeállítás
+portraitprint = Portré nyomtatás
+thumbnailprint = Dia nyomtatás
+printer = Nyomtató
+paper = Papír
+printingarea = Méret
+photosize = Fotó mérete
+rpp = Sorok száma/oldal
+cpp = Oszlopok száma/oldal
+ppp = %d fotó oldalanként
+interval = Térköz
+titleon = Fájlnév mérete
+titleoff = Ki
+drawborder = Fotókeret rajzolása
+autorotate = Fotó automatikus forgatása
+printrange = Nyomtatási tartomány
+printallpages = Összes lap nyomtatása
+printcurrentpage = Az aktuális oldal nyomtatása
+setprintrange = Nyomtatási tartomány beállítása
+copies = Másolat
+wrongpagenumber = Rossz oldalszám
+wrongcopynumber = Rossz példányszám
+accessfail = A nyomtatót nem lehet elérni
+
+[paper]
+title = Nyomtatványok
+tooltip = Nyomtass vonalas papírt, grafikont, kotta lapot, naptárakat
+
+[printpicsizedlg]
+title = Fotóméret beállítása
+outofrange = A fotó méretének %d és %d (mm) között kell lenni.
+
+[howmanycopiesdlg]
+title = Másolatok száma
+comment = Hány darab másolatot szeretnél?
+outofrange = A másolatok számának  %d és %d között kell lenni.
+
+[splitter]
+title = Daraboló
+tooltip = Darabold fel a fotód 
+load = Megnyitás
+split = Darabolás
+colrowmode = Oszlop/Sor
+widthheightmode = Szélesség/Magasság
+cellsize = Cella méret
+colrow = Oszlop x Sor
+destinationoutput = Mentés új mappába az eredeti mappán belül
+destinationfolder = Darabolt fotók mentése a kijelölt mappába
+
+[screencapture]
+title = Képernyomentés
+tooltip = Fotózd le a képernyot és mentsd el képként 
+fullscreencapture = Teljes képernyo fotózása
+windowcapture = Ablak fotózása
+rectcapture = Kijelölt terület fotózása
+repeatlastcapture = Elozo fotózás ismétlése
+process = Fotózott kép feldolgozása
+clipboard = Vágólapra másolás
+edit = Megnyitás a Szerkesztoben
+rect = Koordináták
+size = Méret
+sound = Hangjelzés
+clipboardcomplete = A fotózott képernyo másolása a vágólapra.
+
+[colorpicker]
+title = Színmásoló
+tooltip = Színtónus másolás a képernyorol
+copytooltip = Másold az RGB értékét a vágólapra.\nA nagyított képernyore kattintva válassz színt
+copytooltip2 = Másold az RGB értékét a vágólapra
+comment = Kijelöléshez kattints a mintavételezo tollra és tartsd nyomva az egér bal gombját. A kerettel jelöld ki a területet, majd a nagyított képernyorol válaszd ki a színt.
+currentcolor = Aktuális szín
+pickedcolor = Elozmények
+sound = Hangjelzés
+
+[rename]
+title = Átnevezés
+tooltip = Fájlok átnevezése
+comment = Dobd a fotód az index ablakba.
+converttooltip = Fájlnév módosítása
+rollback = Visszagörgetés
+rollbacktooltip = A eredeti fájlnév visszaállítása.
+naming = Fájl elnevezés
+todaydate = Mai dátum
+filedate = Fájl dátuma
+photographydate = Fotó dátuma
+startingnumber = Kezdoérték
+separator = Elválasztó
+space = szóköz
+example = Minta: A  %s  %s-re fog változni.
+original = Eredeti fájlnév
+newname = Új fájlnév
+digits = %d számjegy
+alreadyexist = ez a fájlnév, %s, már létezik.\nKérlek válassz új nevet.
+completed = Kész
+failed = Nem sikerült a %d fájlt kicserélni a listában.
+rollbackcompleted = Átnevezett fájl visszaalakítása.
+rollbackfailed = Nem sikerült %d fájl visszaalakítása a(z) %d fájlból.
+query = Szeretnéd módosítani a nevet?
+queryrollback = Szeretnéd visszaállítani az eredeti fájlt?
+invalid = A(z) %s nem használható fájlnévként
+naming_name	= Eredeti fájlnév
+naming_namenumber = Eredeti fájlnév + szám
+naming_namedate = Eredeti fájlnév + dátum
+naming_namedatetime = Eredeti fájlnév + dáum + ido
+naming_number = Szám
+naming_numbername = Szám + eredeti fájlnév
+naming_numberdate = Szám + dátum
+naming_numberdatetime = Szám + dátum + ido
+naming_datename = Dátum + eredeti fájlnév
+naming_datenumber = Dátum + szám
+naming_datetimename = Dátum + ido + eredeti fájlnév
+naming_datetimenumber = Dátum + ido + szám
+naming_datetime = Dátum + ido
+
+[rawconverter]
+title = Raw konvertáló
+tooltip = RAW konvertálás JPG-re
+comment = RAW konvertálás JPG-re DSLR kameráról 
+options = Konvertálási beállítások
+halfsize = Fél méret (gyorsabb)
+autowb = Auto. fehéregyensúly
+camerawb = Kamera fehéregyensúly (ha elérheto).
+stop = Leállít
+converttooltip = Raw konvertálás JPG-be
+previewtooltip = A kiválasztott RAW fájl mutatása az elonézeti ablakban.
+previewsavetooltip = Elonézeti fotó mentése.
+previewedittooltip = Elonézeti fotó szerkesztése.
+previewcopytooltip = Elonézeti fotó másolása a vágólapra.
+queryconvert = Konvertáljam a RAW-ot JPG-re?
+result = Konvertálva %d fotó a(z) %d fotóból.
+
+[facesearch]
+title = Arc keresés
+tooltip = Hasonló arcok keresése az interneten
+howto = Töltsd fel a fotód és kattints az "Arc Keresés" gombra.
+failtofind = Nem sikerült elérni az arckereso rendszert.
+failtoconnect = Nem sikerült kapcsolódni az arckereso rendszerhez
+noface = A kiválasztott fotón nem található arc.\nPróbálkozz egy másik fotóval
+
+[onlineprint]
+title = Online kidolgozás
+tooltip = Rendeld meg a fotó kidolgozását online
+
+[photobookmark]
+title = PhotoBookmark
+tooltip = Fotós web linkek
+
+[homepage]
+title = Kezdolap
+
+[help]
+title = Súgó
+tooltip = Súgó\nSúgó megnyitása
+
+[icons]
+cartoon = Rajz
+face = Arc
+makeup = Smink
+heart = Szív
+office = Iroda
+pencil = Toll
+realpicture = Valós kép
+stamp = Bélyeg
+effect = Effekt
+sign = Jel
+number = Szám
+illust = Illusztráció
+logo = Logo
+christmas = Karácsony
+travel = Utazás
+etc = egyéb...
+
+[options]
+title = Beállítások
+tooltip = Beállítások\nBeállítások módosítása
+viewerdblclick = Dupla kattintás a diára a teljes képernyos nézethez
+multiresize = Többszintu átméretezés engedélyezése
+windowsfileopen = Használja az alap ablakot fotó hozzáadó ablakként
+thumbnailcache = Cache adatbázis engedélyezése a diaképekhez (fokozott minoség)
+circularmenu = Kör alakú menü használata
+backup = Biztonsági mentés készítése az eredeti fotóról az 'Originals' mappába a fájl felülírása elott.
+
+[folder]
+new = Új mappa
+delete = Törlés
+favorites = Kedvencek mappa
+favoritestooltip = Kedvencek mappa\nAdd a Kedvencekhez, hogy késobb könnyebben megtaláld 
+addtofavorites = Add a mappát a Kedvencekhez
+managefavorites = Kedvencek mappa rendezése...
+addsuccess = Hozzáadva a Kedvencekhez
+alreadyadded = Már hozzá van adva a Kedvencekhez
+notexist = A kiválasztott mappa nem létezik.\nSzeretnéd törölni a Kedvencekbol?
+queryclear = Biztos, hogy törlöd az összes mappát?
+shortcut = Kapcsold ehhez
+
+[photo]
+delete = Törlés
+deletetooltip = Fotó törlése(Del)\nDobja a fotókat a Lomtárba
+
+[wallpaper]
+title = Asztalra háttérképként
+paperfull = Teljes nézet
+center = Középre
+tile = Mozaik
+stretch = Nyújtás
+query = Szeretnéd beállítani háttérképként?
+
+[slideshow]
+title = Diavetítés
+menuzoomoriginal = Eredeti méret
+menurestore = Alaphelyzet
+menupause = Megállít
+menurestart = Újraindít
+menuduration = Megjelenítési ido (%dmp)
+menusec = %dmp
+menunoeffect = Nincs effekt
+menuoverlap = Átfedés
+menuoverlapslow = Átfedés (lassú)
+menubgmopen = BGM megnyitás
+menubgmplay = BGM lejátszás
+menubgmpause = BGM szünet
+menubgmstop = BGM leállítás
+menubgmautoplay = BGM Automatikus indítás
+menucolor = Háttérszín beállítása
+menutitle = Fotónév mutatása
+menuexif = Mutassa a fotó adatokat
+
+[fullscreen]
+title = Teljes képernyo
+
+[fill]
+stretch = Nyújtás
+paperfull = Papírra (teljes)
+imagefull = Képre (teljes)
+imagefullfine = Teljes kép (torzítás nélkül)
+72dpi = 72 DPI
+96dpi = 96 DPI
+120dpi = 120 DPI
+300dpi = 300 DPI
+
+[zoom]
+zoomin = Nagyítás
+zoomout = Kicsinytés
+preview = Nagyítás elonézet
+originaltooltip = Eredeti méret(Ctrl-Alt-0)
+windowfittooltip = Ablak méret(Ctrl-0)\nFotó igazítása az ablak méretéhez
+zoomintooltip = Nagyítás(Ctrl +)
+zoomouttooltip = Kicsinyítés(Ctrl -)
+
+[rotate]
+title = Forgatás
+right = Forgatás jobbra
+left = Forgatás balra
+leveloff = Szint ki
+fail = Nem sikerült a fotó forgatása
+righttooltip = Forgatás 90 fokkal jobbra
+lefttooltip = Forgatás 90 fokkal balra
+mirrortooltip = Vízszintes tükrözés
+fliptooltip = Függoleges tükrözés
+degreetooltip = Forgatás tetszés szerinti fokban
+previewrighttooltip = Forgatás 90 fokkal jobbra az elonézeti ablakban
+previewlefttooltip = Forgatás 90 fokkal balra az elonézeti ablakban
+previewmirrortooltip = Vízszintes tükrözés
+previewfliptooltip = Függoleges tükrözés
+overflowmethod = Overflow mód
+bgcolor00 = Háttérszín (0,0)
+bgcolorblack = Háttérszín (fekete)
+bgcolorwhite = Háttérszín (fehér)
+wrap = Elrejt
+repeat = Ismétlés
+mirror = Tükör
+keeporiginalsize = Az eredeti méret megtartása
+
+[losslessrotate]
+right = Veszteségmentes forgatás 90 fokkal jobbra
+left = Veszteségmentes forgatás 90 fokkal balra
+180 = Veszteségmentes forgatás 180 fokkal
+mirror = Veszteségmentes függoleges tükrözés
+flip = Veszteségmentes vízszintes tükrözés
+
+[filter]
+title = Szurok
+assigntooltip = Szuro engedélyezése az összes fotóra
+restore = Vissza az eredeti fotóhoz
+restoreinshort = Alaphelyzet
+apply = Szuro bekapcs.
+low = Gyenge
+mid = Közepes
+midstar = Közepes *
+middefault = Közepes (alapértelmezett)
+high = Eros
+lowgray = Gyenge (szürke tónus)
+midgray = Közepes (szürke tónus)
+highgray = Eros (szürke tónus)
+lowgrayinshort = Gyenge (szürke)
+midgrayinshort = Közepes (szürke)
+highgrayinshort = Eros (szürke)
+whitebalance = Fehéregyensúly
+whitebalancecomment = Kijavítja az olyan sárga vagy kék képeket, amelyek zárt térben vagy sötétben készültek.\nKattints az egérrel a fehér területre az eredeti szín visszanyeréséhez.\nKeress egy fehér tárgyat, fehér ruhát vagy fehér hátteret és kattints rá. 
+colorbalance = Színegyensúly
+removecolorcast = Színárnyalat eltávolítása
+removecolorcastcomment= Színárnyalat eltávolítása és a fehéregyensúly beállítása.\nA magasabb értékkel több színárnyalat kerül eltávolításra. 
+colorize = Színezés
+colorizecomment = Szín és telítettség hozzáadása a fotóhoz.\nHa csökkented a telítettséget fekete-fehér fotót kapsz.
+colorenhance = Színerosítés
+autolevel = Auto. képjavítás
+autocontrast = Auto. kontraszt
+brighten = Fényero
+darken = Sötétítés
+deepen = Mélyítés
+grayscale = Szürkeárnyalat
+sepia = Szépia
+negative = Negatív
+negativeinshort = Negatív
+gammacorrection = Gamma korrekció
+gammacorrectioninshort = Gamma
+gammabright = Gamma fényero
+exposure = Expozíció
+sharpen = Élesítés
+sharpencomment = Javaslat: Az Érték lehetoleg 0.1 és 1.0 között-\n az Arány pedig 10% és 100% között legyen.
+blur = Homályosít
+bright = Fényesítés
+contrast = Kontraszt
+decolor = Színvesztés
+bloom = Hamvasítás
+bloomregion = Hamvasítási terület beállítása
+lce = Kontraszt erosítés
+lceinshort = Kontraszterosítés
+smartblur = Gyors homályosítás (bor simítása)
+noisereduction = Zajcsökkentés (bor simítása)
+film = Film Effekt
+filmcinema = Cinema
+filmcrossprocess = CrossProcess
+filmprovia = Provia
+filmvelvia = Velvia
+filmportra = Portra
+filmagfa = Agfa
+old = Antik fotó
+dilate = Nyújtás
+erode = Koptatás
+mosaic = Mozaik
+regionfilter = Terület (fókuszon kívül)
+regionfilterreverse = Terület megfordítása
+lineargradient = Színátmenet
+graduatedtint = Színárnyalat fokozás
+graduatedtintcomment = Állítsd a fotó felso részét sötétebbre. Ideális fektetett, égboltot tartalmazó fotóhoz.
+graduatedtintfeather = Perem
+graduatedtintshade = Árnyék
+faketiltshift = Fake Tilt-Shift
+faketiltshiftcomment = Készíts valódi látványos, légies fotókat.
+lensflare = Lencsecsillogás
+lensflareshape = Új sablon
+lensflarenegative = Negatív
+fadestyle = Homályos stílus
+contrastmasking = Háttérfény korrekció
+contrastmaskinginshort = Háttérfény
+texture = Szövet
+noise = Zaj
+jitter = Jitter
+crystallize = Kristályosítás
+edge = Élek
+embossing = Dombornyomás
+cellophane = Celofán
+pictorialization = Festészet
+impressionistic = Impresszionista
+pastel = Pasztell
+pen = Toll
+waterpainting = Vízfesték
+waterpaintingbrushsize = Ecset méret
+oilpainting = Olajfesték
+pencil = Ceruza
+colorpencil = Színes ceruza
+watercolorpencil = Akvarell
+cartoon = Vázrajz
+colorengraving = Színes metszet
+monochromeengraving = Egyszínu metszet
+distorts = Torzítás
+glasstile = Tükörhatás
+doublefacedglasstile = Dupla tükörhatás
+verticalglasstile = Függoleges tükörhatás
+horizontalglasstile = Vízszintes tükörhatás
+window = Ablak
+illusion = Illúzió
+fisheye = Halszem
+fisheyelensvalue = Lencse érték
+motionblur = Motionblur
+motionblurstep = Lépés
+zoomblur = Zoomblur
+radialblur = Radialblur
+wave = Hullám
+wavelength = Hullámhossz
+waveamplitude = Amplitúdó
+swirl = Örvény
+box = Készíts dobozt
+boxrightside = Jobboldalas doboz
+boxleftside = Baloldalas doboz
+reflection = Tükrözodés
+perspective = Perspektíva
+newsprint = Újság nyomat
+sepiatooltip = Szépia\nKészíts "ódivatú" effektet a vörösesbarna tónus hozzáadásával.
+grayscaletooltip = Szürkeárnyalat\nA szürkeárnyalat effekttel fekete-fehér fotót készíthetsz. A szürkeárnyalat effekt kiszuri a színeket.
+thresholdtooltip = Küszöb érték\nA színes fotót feketévé és fehérré teszi.
+negativetooltip = Invertálás. Negatív. \nFelcseréli az összes pixel színét.
+bloomtooltip = Hamvasítás(Ctrl-G)
+autoleveltooltip = Automatikus színárnyalat\n A színárnyalat automatikus beállítása
+autocontrasttooltip = Auto. kontraszt\n Kontraszt automatikus beállítása
+brightpacktooltip = Fényero, Kontraszt, Árnyalat, Felbontás beállítása ...
+sharpentooltip = Élek\nTedd a tárgyak éleit eroteljesebbé és kevésbé homályossá.
+blurtooltip = Homályosítás\nPuhítja a fotót, homályossá és életlenné teszi a képet.
+contrastmaskingtooltip = Háttérfény korrekció\nA sötét részeket világossá teszi.
+brightpack = Fényero - Szín
+applygraytone = Szürke árnyalat alkalmazása
+hue = Árnyalat
+saturation = Telítettség
+colorconversion = Színmódosítás
+normalmode = Normál
+brightmode = Fényes
+deepmode = Sötét
+lighter = Fényesebb
+stronger = Erosebb
+stroke = Ecsetvonás
+threshold = Küszöb érték
+previewnotreal = Az elonézeti kép a gyors megtekintésre van optimalizálva, ezért eltérhet a tényleges képtol.
+
+[color]
+title = Szín
+apply = Szín alkalmazása
+black = Fekete
+white = Fehér
+red = Vörös
+green = Zöld
+blue = Kék
+red2 = Vörös
+green2 = Zöld
+blue2 = Kék
+cyan2 = Cián
+magenta2 = Bíbor
+yellow2 = Sárga
+
+[curves]
+title = Hajlítás
+rgb = Színhajlítás
+saturation = Telítettség hajlítás
+luminance = Luminance hajlítás
+rgbinshort = Szín
+saturationinshort = Telítettség
+luminanceinshort = Luminance
+load = Betöltés (hajlítás)
+save = Mentés (hajlítás)
+
+[resize]
+portrait = Vízszintes fotóméret beállítása
+original = Eredeti méret
+adjustwidth = Szélesség beállítása
+adjustheight = Magasság beállítása
+adjustlonger = Hosszabb oldal mérete
+adjustshorter = Rövidebb oldal mérete
+reducewidth = Szélesség csökkentése
+reduceheight = Magasság csökkentése
+reducelonger = Hosszabb oldal legyen
+reduceshorter = Rövidebb oldal legyen
+stretch = Nyújtás
+crop = Kép vágása
+nearestneighbor = Legközelebbi szomszéd
+bilinear = Bilinear
+bicubic = Bicubic
+bicubicbest = Bicubic (legjobb)
+interpolation = Beszúrás
+preserveaspectratio = Képarány megtartása
+excludingframe = A fotó méretének módosítása a keret kivételével.
+includingframe = A keret igazodik a fotó új méretéhez.
+adjustautomatically = "%s" beállítása automatikusan történik a "%s" alapján.
+outofwidthrange = A szélességi értéken kívül esik
+outofheightrange = A magassági értéken kívül esik
+widthnotvalid = A megadott szélesség nem valós
+morethan = Több legyen, mint %d
+lessthan = Kevesebb legyen, mint %d
+adjust = Igazítás %s
+
+[file]
+name = Fájlnév
+ext = Kiterjesztés
+size = Méret
+ctime = Létrehozva
+mtime = Módosítva
+atime = Utolsó mód.
+propreadfail = A tulajdonságokat nem lehet elérni\nFrissíts (F5), és ellenorizd a fájlt
+enter = Bemeneti fájlnév 
+queryoverwrite = Az a fájlnév már létezik. Felülírod? 
+
+[photolist]
+add = Hozzáadás
+delete = Törlés
+forward = Mozgatás elore
+backward = Mozgatás vissza
+addtooltip = Fotó hozzáadása (Beillesztés)
+deletetooltip = A kiválasztott fotó törlése a listáról(Del)
+cleartooltip = Az össze fotó törlése a listáról(Ctrl-Del)
+addphoto = Fotó hozzáadása
+addclipboard = Fotó beillesztése a vágólapról
+addblank = Üres hely hozzáadása
+insertphoto = Fotó beillesztése az aktuális helyre
+insertclipboard = Fotó beillesztése a vágólapról az aktuális helyre
+queryclear = Szeretnéd az összes fotót törölni a listáról?
+multiselection = Jelölj ki több fotót a Ctrl lenyomásával vagy a Shift és az egér használatával.
+
+[frame]
+title = Keret
+assign = Keret hozzáadása
+favorites = Kedvenc keretek
+assigntooltip = Keret hozzáadása az összes fotóhoz
+favoritestooltip = Kedvenc keretek\nA keret hozzáadása az összes fotóhoz
+empty = Nincs keret
+addtofavorites = Add a keretet a Kedvencekhez
+managefavorites = Kedvenc keretek rendezése...
+addsuccess = Kedvencekhez adva
+alreadyadded = Már szerepel a kedvencekben
+notexist = A választott keret nem elérheto.\nSzeretnéd törölni a Kedvencekbol?
+all = Összes keret
+
+[align]
+title = Igazítás
+photo = Fotó igazítása
+horizontal = Vízsz. igazítás
+vertical = Függo. igazítás
+left = Balra
+right = Jobbra
+top = Fent
+bottom = Lent
+center = Középre
+topleft = Balra fel
+topright = Jobbra fel
+bottomleft = Balra le
+bottomright = Jobbra le
+outofrange = Ha a koordináták a számtartományon kívül esnek, \nTedd alaphelyzetbe (0) az X-et és az Y-t. 
+
+[vignetting]
+title = Árnyalt cimke
+no = Nincs árnyalt cimke
+comment = Egyszerre több árnyalt cimke is alkalmazható.\nVálaszthatsz fehéret is a fekete helyett.
+
+[text]
+leftalign = Balra igazítás
+centeralign = Középre igazítás
+rightalign = Jobbra igazítás
+bold = Félkövér
+italic = Dolt
+underline = Aláhúzott
+vertical = Függoleges
+antialiasing = Anti-Aliasing
+outline = Szöveg körvonal
+outlineplustext = Körvonal és szöveg
+outlineonly = Csak a körvonal
+outlineminustext = Körvonal szöveg nélk.
+thickness = Vastagság
+blur = Homályos
+outofpointrange = A betuméret a számtartományon kívül esik. 
+notext = Írd be a szöveget
+
+[balloon]
+color = Válaszd ki a buborék színét 
+rotate0 = Eredeti
+rotate1 = Vízszintesen
+rotate2 = Vízsz. + függo
+rotate3 = Függolegesen
+rotate4 = Balra
+rotate5 = Bal + Függo
+rotate6 = Jobbra
+rotate7 = Jobb + Függo
+
+[exifshortcut]
+photodate = Fotó készítés dátuma
+phototime = Fotó készítés ideje
+photoyear = Fotó készítés dátuma (Év)
+photomonth = Fotó készítés dátuma (Hónap)
+photoday = Fotó készítés dátuma (Nap)
+shutterspeed = Zársebesség
+fnumber = Rekesz(F szám)
+ev = Torzított expozíció(EV)
+focallength = Fókusz távolság
+iso = ISO érték
+flash = Vaku
+make = Fényképezogép gyártója
+makeuppercase = Fényképezogép gyártója(nagybetu)
+makelowercase = Fényképezogép gyártója(kisbetu)
+model = Fényképezogép modell
+modeluppercase = Fényképezogép modell(nagybetu)
+modellowercase = Fényképezogép modell(kisbetu)
+filename = Fájlnév
+filenameuppercase = Fájlnév(nagybetu)
+filenamelowercase = Fájlnév(kisbetu)
+
+[exif]
+tooltip = Exif Info\nMegmutatja a fotó Exif információit. (gyártó, modell, vaku stb.)
+info = Exif Információk
+delete = Exif info törlése
+querydelete = Törölni szeretnéd az Exif info-t?
+deletefail = Nem lehet törölni az EXIF info-t
+deletesuccess = Exif info törölve
+make = Gyártó
+model = Modell
+datetime = Dátum
+software = Szoftver
+artist = Muvész
+copyright = Jogvédelem
+editor = Szerkeszto
+resolution = Felbontás
+orientation = Tájolás
+flash = Vaku
+focallength = Fókusztávolság
+digitalzoom = Digitális Zoom
+ccdwidth = CCD Szélesség
+exposuretime = Expozíció ideje
+aperturefnumber = Nyílás
+isoequiv = ISO egyenérték
+exposurebias = Expozíciótorzítás
+whitebalance = Fehéregyensúly
+lightsource = Fényforrás
+meteringmode = Mérési mód
+exposure = Expozíció
+exposuremode = Expozíció módja
+description = Leírás
+comment = Megjegyzés
+
+[association]
+title = Társítás
+comment = Az alábbi fájtipusok társítása a PhotoScape-hez
+
+[expandsize]
+title = Fotó átméretezése
+comment = A külso objektumokkal együtt mented a fotót?
+expandcolor = A kijelölt terület háttészíne
+
+[phone]
+title = Fotó küldése telefonra
+tooltip = Küldd a fotókat a telefonodra
+failtoconnect = A kapcsolódás a szerverhez sikertelen.
+
+[language]
+title = Nyelv
+comment = Válassz nyelvet
+langfile = Nyelvi Fájl
+alert = A nyelv megváltoztatásához újra kell indítani a programot. \nFolyatod?
+english = Angol (English)
+korean = Koreai
+chinese = Kínai (egyszerusített)
+traditional_chinese = Kínai (Tradicionális)
+german = Német
+dutch = Holland
+spanish = Spanyol
+spanishmx = Spanyol (Mexico, Latin-amerika)
+french = Francia
+japanese = Japán
+russian = Orosz
+polish = Lengyel
+italian = Olasz
+portugesebr = Portugál (Brazil)
+thai = Thai
+hungarian = Magyar
+turkish = Török
+catalan = Katalán
+slovak = Szlovák
+czech = Cseh
+norwegian = Norvég
+bulgarian = Bolgár
+ukrainian = Ukrán
+greek = Görög
+swedish = Svéd
+estonian = Észt
+danish = Dán
+romanian = Román
+portugesept = Portugál (Portugal)
+hebrew = Héber
+galician = Galíciai
+finnish = Finn
+indonesian = Indonéz
+spanishcb = Spanish (Colombia, Latin America)
+arabic = Arabic
+serbianlatin = Serbian Latin
+serbiancyrillic = Serbian Cyrillic
